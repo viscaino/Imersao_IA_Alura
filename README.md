@@ -1,6 +1,6 @@
 # **Desperdice Menos, Cozinhe Mais: Seu guia culinário anti-desperdício!**
 
-_Desperdice Menos, Cozinhe Mais é um projeto que te ajuda a combater o desperdício de alimentos na sua própria cozinha!_
+_Desperdice Menos, Cozinhe Mais (Imersao_IA_Alura_Desperdice_Menos_Cozinhe_Mais.ipynb) é um projeto que te ajuda a combater o desperdício de alimentos na sua própria cozinha!_
 
 * Bonus Round: Neste repositório você irá encontrar um Chat de Interação (Chat_de_Interação.ipynb) onde poderá se divertir e se aprofundar em diversas curiosidades. Conte com ele para te ajudar
 
