@@ -3,6 +3,7 @@
 Desperdice Menos, Cozinhe Mais é um projeto que te ajuda a combater o desperdício de alimentos na sua própria cozinha!
 
 _**Objetivo:**_
+
 __
 Chega de jogar comida fora! Com este projeto, você poderá:
 
@@ -12,6 +13,7 @@ Chega de jogar comida fora! Com este projeto, você poderá:
 **Expandir seu repertório culinário:** Experimente novas receitas e sabores com base nos ingredientes que você já possui.
 
 **Funcionalidades:**
+
 __
 **Interface amigável:** Digite os ingredientes que você tem em casa de forma simples e intuitiva.
 **Recomendações personalizadas:** Receba sugestões de receitas que se encaixam perfeitamente aos ingredientes que você possui.
@@ -19,6 +21,7 @@ __
 Como contribuir:
 
 **Você pode contribuir com o Desperdice Menos, Cozinhe Mais das seguintes maneiras:**
+
 __
 **Adicionando novas receitas:** Compartilhe suas receitas favoritas com a comunidade.
 **Aprimorando o banco de dados:** Ajude a expandir o banco de dados com informações sobre novos ingredientes e receitas.
