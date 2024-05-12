@@ -1,4 +1,5 @@
-<\b>Desperdice Menos, Cozinhe Mais: Seu guia culinário anti-desperdício!<\b>
+Desperdice Menos, Cozinhe Mais: Seu guia culinário anti-desperdício!
+
 Desperdice Menos, Cozinhe Mais é um projeto que te ajuda a combater o desperdício de alimentos na sua própria cozinha!
 
 Objetivo:
